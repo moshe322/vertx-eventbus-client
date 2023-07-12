@@ -14,7 +14,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class VertxEventBusServer extends Verticle implements EventBusBridgeHook{
-
+<!----demo on github we----> 
   public void start() {
     EventBus eb = vertx.eventBus();
 
